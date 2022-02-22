@@ -1,0 +1,30 @@
+.group {
+    width: 180px;
+    margin: 0 auto;
+    padding-top: 50px;
+    display: flex;
+    border-radius: 15px;
+}
+
+input,
+select {
+    background: none;
+    border: 0;
+    color: #fff;
+    background: #335;
+    font-size: 22px;
+}
+
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    padding-left: 10px;
+
+
+}
+
+select {
+    padding: 20px;
+
+}

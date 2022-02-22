@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    background-color: #161616;
+    color: #fff;
+    padding: 50px;
+}
+
+h1 {
+    color: #fff;
+    text-align: center;
+}
+
+.wrapper {
+    margin-right: 200px;
+}
+
